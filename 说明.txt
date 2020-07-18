@@ -1,0 +1,1 @@
+这是一个Python的Github仓库，本地目录位置为C:\Users\Administrator\Desktop\Code\Git
