@@ -1,0 +1,10 @@
+label.pack(fill="both", expand=1) # pack布局 全部展开
+
+label.grid(row=0, column=0) # grid布局 表格布局 用行列定位
+label.grid(row=0, column=1) # grid布局 表格布局 用行列定位
+# 中间没有也不会空出来
+
+label.place(x=200, y=100) # 以x轴和y轴进行布局
+
+Frame 布局管理器，将多个布局方式联合在一起
+就像计算器，上面是pack布局，下面是grid布局
